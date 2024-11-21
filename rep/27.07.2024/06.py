@@ -1,6 +1,6 @@
 import turtle as t
 
-k = 5
+k = 10
 t.tracer(0,0)
 t.right(90)
 
