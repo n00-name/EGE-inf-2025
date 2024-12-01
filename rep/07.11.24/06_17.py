@@ -1,4 +1,4 @@
-# Read data from '17-411.txt' file
+# Read data from '17_01_411.txt' file
 with open('17-411.txt') as file:
     sequence = list(map(int, file.read().split()))
 
